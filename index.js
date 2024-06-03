@@ -1,5 +1,3 @@
-
-
 function hotDrinks(hotdrinks) {
 
   const parent = document.getElementById('hot-parent');
@@ -52,8 +50,4 @@ function coldDrinks(coldDrinks) {
   console.log(data);
   hotDrinks(data);
   });
-  }
-
-  else {
-    
   }
